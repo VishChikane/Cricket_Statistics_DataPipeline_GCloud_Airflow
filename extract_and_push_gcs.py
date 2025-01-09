@@ -4,7 +4,7 @@ from google.cloud import storage
 
 url = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/rankings/batsmen'
 headers = {
-    'x-rapidapi-key': "12c1c9dad95ensjf24441p3c3cb7c30c429eahsm0a85c4a011",  # Don't Use
+    'x-rapidapi-key': "UseYourAPIKey",  # Don't Use  : "12c1c9dad95ensjf24441p3c3cb7c30c429eahsm0a85c4a011"
     'x-rapidapi-host': "cricbuzz-cricket.p.rapidapi.com"
 }
 params = {
